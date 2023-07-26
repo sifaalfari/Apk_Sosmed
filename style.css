@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    background-color: #1a237e; /* Ubah dengan kode warna yang diinginkan */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Ubah dengan warna latar belakang yang diinginkan */
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333333;
+}
+
+p {
+    color: #555555;
+}
